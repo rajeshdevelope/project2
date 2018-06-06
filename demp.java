@@ -1,5 +1,6 @@
 public class main{
   public static void main(String[] args){
     System.out.println("this is new project");
-   }
+    System.out.println("new statement added"); 
+  }
 }
